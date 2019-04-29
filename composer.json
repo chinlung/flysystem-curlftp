@@ -1,5 +1,5 @@
 {
-  "name": "vladimir-yuldashev/flysystem-curlftp",
+  "name": "chinlung/flysystem-curlftp",
   "description": "Flysystem Adapter for the FTP with cURL implementation",
   "type": "library",
   "license": "MIT",
@@ -11,6 +11,10 @@
     {
       "name": "Alexander Rubtsov",
       "email": "RubtsovAV@gmail.com"
+    },
+    {
+      "name": "ChinLung Shih",
+      "email": "chinlung.shih@gmail.com"
     }
   ],
   "require": {
@@ -27,12 +31,12 @@
   },
   "autoload": {
     "psr-4": {
-      "VladimirYuldashev\\Flysystem\\": "src"
+      "ChinLung\\Flysystem\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "VladimirYuldashev\\Flysystem\\Tests\\": "tests"
+      "ChinLung\\Flysystem\\Tests\\": "tests"
     }
   },
   "scripts": {

@@ -1,10 +1,10 @@
 <?php
 
-namespace VladimirYuldashev\Flysystem\Tests;
+namespace ChinLung\Flysystem\Tests;
 
 use Faker\Factory;
 use PHPUnit_Framework_TestCase;
-use VladimirYuldashev\Flysystem\CurlFtpAdapter;
+use ChinLung\Flysystem\CurlFtpAdapter;
 
 abstract class TestCase extends PHPUnit_Framework_TestCase
 {

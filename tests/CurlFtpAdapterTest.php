@@ -1,6 +1,6 @@
 <?php
 
-namespace VladimirYuldashev\Flysystem\Tests;
+namespace ChinLung\Flysystem\Tests;
 
 use League\Flysystem\Util;
 use League\Flysystem\Config;

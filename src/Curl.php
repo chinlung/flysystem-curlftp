@@ -1,6 +1,6 @@
 <?php
 
-namespace VladimirYuldashev\Flysystem;
+namespace ChinLung\Flysystem;
 
 class Curl
 {
